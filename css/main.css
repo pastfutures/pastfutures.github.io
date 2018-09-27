@@ -1,4 +1,5 @@
 body {
+   font-family: "Garamond", 'Garamond', 'serif';
     margin: 60px auto;
     width: 70%;
 }
@@ -9,6 +10,7 @@ nav ul, footer ul {
     font-weight: normal;
 }
 nav ul li, footer ul li {
+    font-family: "Garamond", 'Garamond', 'serif';
     display: inline;
     margin-right: 20px;
 }
