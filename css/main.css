@@ -16,7 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #666666;
+    color: #961b1b;
 }
 a:hover {
     text-decoration: underline;
@@ -28,10 +28,10 @@ p {
     font-family: "Garamond", 'Garamond', 'serif';
     font-size: 1em;
     line-height: 1.4em;
-    color: #666666;
+    color: #961b1b;
 }
 footer {
-    border-top: 1px solid ##6d6464;
+    border-top: 1px solid #961b1b;
     font-size: .8em;
 }
 
